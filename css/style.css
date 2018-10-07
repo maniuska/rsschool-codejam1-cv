@@ -17,6 +17,10 @@ main {
     background-color: #E3EDD8;
 }  
 
+main div{
+    padding: 10px 20px;
+}
+
 #name {
 	margin-left: 20px;
 	padding-bottom: 10px;

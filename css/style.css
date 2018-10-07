@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+
+header
+{   width: 100%;
+    margin: auto;
+    max-width: 1024px;
+    height:150px;
+    background-color: #668284;   
+}
+
+main {
+    width: 100%;
+    margin: auto;
+    max-width: 1024px;
+    background-color: #E3EDD8;
+}  
+
+main div{
+    padding: 10px 20px;
+}
+
+#name {
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 26px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+.left {
+    float: left;
+    width: 70%;
+}
+
+img {
+    width: 144px;
+    height: auto;  
+    border: solid #668284; 
+    border-radius: 5px;
+    float: right;  
+}
+
+#contacts {
+    padding-left: 10px;
+}
+
+footer {
+    width: 100%;
+    margin: auto;
+    max-width: 1024px;
+    background-color: #668284;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}

@@ -3,7 +3,7 @@ body {
 }
 
 header
-{   
+{   width: 100%;
     margin: auto;
     max-width: 1024px;
     height:150px;
@@ -11,9 +11,9 @@ header
 }
 
 main {
+    width: 100%;
     margin: auto;
     max-width: 1024px;
-    padding-left: 20px;
     background-color: #E3EDD8;
 }  
 
@@ -43,10 +43,11 @@ img {
 }
 
 footer {
+    width: 100%;
     margin: auto;
     max-width: 1024px;
     background-color: #668284;
     color: white;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
 }
